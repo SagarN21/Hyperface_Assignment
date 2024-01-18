@@ -1,0 +1,163 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "image": "https://cdn2.f-cdn.com/files/download/38545966/4bce6b.jpg",
+        "message": "It's a nice day to do something new.",
+        "courses": [
+          {
+            "id": 1,
+            "name": "Designing",
+            "courseImage": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Programming Basics",
+            "courseImage": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Photography Fundamentals",
+            "courseImage": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Digital Marketing 101",
+            "courseImage": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Music Production Techniques",
+            "courseImage": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Music Production Techniques",
+            "courseImage": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Music Production Techniques",
+            "courseImage": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg"
+          },
+          {
+            "id": 8,
+            "name": "Music Production Techniques",
+            "courseImage": "https://t4.ftcdn.net/jpg/03/29/19/15/360_F_329191596_tRQiV7LZjTZtuPM09QyOS09HV1D9VimE.jpg"
+          }
+        ],
+        "audio": [
+          {
+            "id": 1,
+            "url": "https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg"
+          },
+          {
+            "id": 2,
+            "url": "https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg"
+          },
+          {
+            "id": 3,
+            "url": "https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg"
+          },
+          {
+            "id": 4,
+            "url": "https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg"
+          },
+          {
+            "id": 5,
+            "url": "https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "image": "https://cdn2.f-cdn.com/files/download/38545966/4bce6b.jpg",
+        "message": "Embrace the opportunities of the day!",
+        "courses": [
+          {
+            "id": 1,
+            "name": "Data Science Essentials",
+            "courseImage": "https://placekitten.com/200/304"
+          },
+          {
+            "id": 2,
+            "name": "Graphic Design Mastery",
+            "courseImage": "https://placekitten.com/200/305"
+          },
+          {
+            "id": 3,
+            "name": "Web Development Bootcamp",
+            "courseImage": "https://placekitten.com/200/306"
+          },
+          {
+            "id": 4,
+            "name": "Business Strategy for Entrepreneurs",
+            "courseImage": "https://placekitten.com/200/307"
+          },
+          {
+            "id": 5,
+            "name": "Fitness and Wellness",
+            "courseImage": "https://placekitten.com/200/308"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Bob Johnson",
+        "image": "https://cdn2.f-cdn.com/files/download/38545966/4bce6b.jpg",
+        "message": "Make today unforgettable.",
+        "courses": [
+          {
+            "id": 1,
+            "name": "Machine Learning Fundamentals",
+            "courseImage": "https://placekitten.com/200/309"
+          },
+          {
+            "id": 2,
+            "name": "UI/UX Design Principles",
+            "courseImage": "https://placekitten.com/200/310"
+          },
+          {
+            "id": 3,
+            "name": "Social Media Marketing Strategies",
+            "courseImage": "https://placekitten.com/200/311"
+          },
+          {
+            "id": 4,
+            "name": "Mobile App Development",
+            "courseImage": "https://placekitten.com/200/312"
+          },
+          {
+            "id": 5,
+            "name": "Cooking Masterclass",
+            "courseImage": "https://placekitten.com/200/313"
+          }
+        ]
+      }
+    ],
+    "audio": [
+      {
+        "id": 1,
+        "url": "https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg"
+      },
+      {
+        "id": 2,
+        "url": "https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg"
+      },
+      {
+        "id": 3,
+        "url": "https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg"
+      },
+      {
+        "id": 4,
+        "url": "https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg"
+      },
+      {
+        "id": 5,
+        "url": "https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg"
+      }
+    ]
+  }
+  

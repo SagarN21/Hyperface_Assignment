@@ -1,0 +1,77 @@
+
+
+.greeting {
+  background: linear-gradient(
+    270deg,
+    #5065da 3.28%,
+    #556fff 21.77%,
+    #c557ad 41.22%,
+    #e65f9a 69.27%,
+    #e66176 98.52%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+
+  font-family: Avenir;
+  font-size: 22px;
+  font-weight: 800;
+  line-height: 32px;
+  letter-spacing: 0px;
+  text-align: left;
+  width: 158px;
+  height: 32px;
+  position: absolute;
+  left: 24px;
+  left: 24px;
+
+
+}
+.message {
+  width: 243px;
+  height: 22px;
+  position: absolute;
+  top:4%;
+  left: 24px;
+  opacity: 0.6; 
+  color: white;
+
+  font-family: Avenir;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0.2px;
+  left: 1%;
+  display: block;
+  z-index: 1;
+}
+.profile {
+  width: 20%;
+  height: 20%;
+  border-radius: 50%;
+  margin-left: 45.8%;
+  right:0;
+}
+
+.container {
+    position: relative;
+    width: 300px; 
+  }
+  
+  .searchbar {
+    width: 100%; 
+    border: 1px solid #ccc;
+    background-color: #535355;
+  }
+  
+  .community {
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+

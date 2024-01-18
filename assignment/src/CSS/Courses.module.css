@@ -1,0 +1,17 @@
+.courses{
+width:340px;
+height:10%;
+left:24px;
+color:white;
+font-weight: 400;
+}
+
+.container
+{
+  display: grid;
+  grid-auto-flow: column;
+  overflow: scroll;
+  height: 100%;
+  width:100%;
+  gap: 2%;
+}
